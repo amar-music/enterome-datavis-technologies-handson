@@ -30,7 +30,6 @@ Now, in a parent component we can use component B:
 <Code
   language="svelte"
   code={`<script>
-  ...
   let myCountingVariable = 100;
 </script>
 
